@@ -1,0 +1,246 @@
+ALTA DE VEHICULOS 
+
++--------+-------+----------+-----------+----------------------------+
+|        |       | Elaboró  |   Revisó  |   Descripción del cambio   |
+| Número | Fecha | (Puesto) |           |                            |
+|   de   |   ú   |          |  (Puesto) |                            |
+|   re   | ltima |          |           |                            |
+| visión |   de  |          |           |                            |
+|        |       |          |           |                            |
+|        |   rev |          |           |                            |
+|        | isión |          |           |                            |
++========+=======+==========+===========+============================+
+|   0    |   28/ |          |           |   Nueva Creación           |
+|        | 08/23 | Gerencia |  Gerencia |                            |
+|        |       |   de     |   de      |                            |
+|        |       |          |   Admin   |                            |
+|        |       | Sistemas | istración |                            |
+|        |       |   y      |           |                            |
+|        |       |          |           |                            |
+|        |       | Procesos |           |                            |
++--------+-------+----------+-----------+----------------------------+
+| 1      | 02/09 | Gerencia | Gerencia  | Se realizo el traslado de  |
+|        | /2023 | de       | de        | pantallas de SICA a        |
+|        |       | Sistemas | Admin     | SICAWeb, las pantallas de  |
+|        |       | y        | istración | flotilla y resguardo de    |
+|        |       | Procesos |           | vehículos. Ahora la        |
+|        |       |          |           | captura de estas las       |
+|        |       |          |           | realizará el Auxiliar de   |
+|        |       |          |           | Servicios Sr. en lugar del |
+|        |       |          |           | Área de Contabilidad.      |
++--------+-------+----------+-----------+----------------------------+
+| 2      | 06/   | Gerencia | Gerencia  | Se agregan los puntos      |
+|        | 09/23 | de       | de        | 3.1.4, 3.1.5 y 4.1.4       |
+|        |       | Sistemas | Admin     | conforme a las             |
+|        |       | y        | istración | responsabilidades y        |
+|        |       | Procesos |           | normatividades.            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+|        |       |          |           |                            |
++--------+-------+----------+-----------+----------------------------+
+
+1.  OBJETIVO:
+
+  Establecer los lineamientos para la correcta captura del alta y baja
+  de vehículos pertenecientes a la empresa.
+
+ALCANCE:
+
+1.  Este procedimiento es aplicable para flotilla, resguardo,
+    mantenimiento y seguro de vehículos.
+
+RESPONSABILIDADES:
+
+2.  Auxiliar de Servicios Sr.
+
+    1.  Es responsabilidad del Auxiliar de Servicios Sr. capturar cada
+        inicio de semana los datos registrados en el parque vehicular;
+        es decir kilometraje, tipo de servicio y rendimiento del
+        vehículo.
+
+    2.  Es responsabilidad del Auxiliar de Servicios Sr. capturar la
+        flotilla, resguardo y mantenimiento y pólizas de seguro de cada
+        vehículo con el que cuenta la empresa.
+
+    3.  Es responsabilidad del Auxiliar de Servicios Sr. mantener
+        actualizada la información de la póliza de seguros de un
+        vehículo.
+
+    4.  Es responsabilidad del Auxiliar de Servicios Sr. ingresar los
+        datos completos de la factura de los vehículos adquiridos
+        recientemente por la empresa; ya sea la marca, modelo, año,
+        número de serie, número de motor, valor factura del vehículo,
+        placas, color del vehículo.
+
+    5.  Es responsabilidad del Auxiliar Sr. solicitar al área de
+        Contabilidad apoyo en caso del alta o modificación de
+        colaboradores para la asignación del resguardo de los vehículos.
+
+3.  Sistema
+
+    1.  Es responsabilidad del sistema mostrar un listado de alertas de
+        vencimiento de seguros, mantenimientos, etc.
+
+LEGAL Y REGLAMENTARIO (NORMATIVIDADES):
+
+4.  General
+
+    1.  Una placa no puede ser utilizada en 2 o más vehículos.
+
+    2.  Un número de serie de vehículo no puede duplicarse.
+
+    3.  Un vehículo siempre deberá estar bajo resguardo.
+
+    4.  Un vehículo no puede estar dado de alta si no cuenta con los
+        datos solicitados por el sistema.
+
+PROCEDIMIENTO:
+
+5.  Inicio
+
+6.  Alta y baja de vehículos
+
+    1.  Auxiliar de Servicios Sr:
+
+    2.  Ingresará al sistema SICAWeb (https://www.pronamexsacv.com.mx )
+
+    3.  Selecciona el menú “Movimientos/Administración/Vehículos/
+        Flotilla”
+
+    4.  Oprime el botón [] para crear un nuevo registro.
+
+    5.  Deberá seleccionar la empresa a la que corresponde el vehículo.
+
+    6.  Deberá seleccionar el tipo de vehículo que está registrando.
+
+    7.  Deberá capturar la marca del vehículo.
+
+    8.  Deberá capturar el modelo del vehículo.
+
+    9.  Deberá capturar el año del vehículo.
+
+    10. Deberá capturar el número de serie del vehículo.
+
+    11. Deberá escribir el número del motor del vehículo.
+
+    12. Deberá escribir el color del vehículo.
+
+    13. Deberá escribir las placas.
+
+    14. Deberá escribir la fecha de adquisición del vehículo.
+
+        1.  En caso de que el vehículo se haya dado de baja, deberá
+            colocarlo en el campo BAJA.
+
+    15. Deberá capturar el valor factura del vehículo.
+
+    16. Deberá escribir una descripción asociada al vehículo.
+
+    17. Presiona el botón [] para guardar los datos registrados del
+        vehículo.
+
+7.  Asignación de vehículo
+
+    1.  Ingresar a SICAWeb.
+
+    2.  Iniciar sesión con usuario y contraseña.
+
+    3.  Dirigirse al menú
+        “Movimientos/Administración/Vehículos/Resguardo”
+
+    4.  Oprime el botón [] para crear un nuevo resguardo de vehículo.
+
+    5.  Selecciona la empresa a la que corresponde el colaborador que
+        resguarda.
+
+    6.  Selecciona la fecha del resguardo.
+
+    7.  Presiona el botón [] para acceder al Catalogo de Colaboradores y
+        de la lista que se muestra deberá seleccionar el nombre del
+        colaborador que tendrá bajo resguardo el vehículo.
+
+    8.  Deberá escribir la fecha de vencimiento de la licencia de
+        conducir del colaborador.
+
+    9.  Escribe las placas del vehículo.
+
+    10. De la lista que se despliega deberás seleccionar el vehículo que
+        se le asigna al colaborador.
+
+    11. Escribe el No. Póliza del seguro del vehículo.
+
+    12. Escribe el vencimiento de la póliza.
+
+    13. Deberá escribir comentarios del resguardo del vehículo.
+
+    14. Presiona el botón [] para guardar los datos del resguardo.
+
+8.  Póliza de seguro
+
+    1.  Para su referente deberá consultar el PR-01-002.00 Registro
+        Seguro de Vehículos.
+
+9.  Mantenimiento de vehículos
+
+    1.  Para su referente deberá consultar el PR-01-001.00 Registro
+        Mantenimiento de Vehículos.
+
+10. Fin
+
+REGISTROS:
+
+11. Listado de alertas de vehículos actualizado.
+
+DOCUMENTACIÓN RELACIONADA Y SOPORTE:
+
+12. Procedimiento PR-01-001.00 Registro Mantenimientos de Vehículos.
+
+13. Procedimiento PR-01-002.00 Registro Seguro de vehículos.
+
+14. Diagrama de Flujo DF-01-001 Mantenimiento de vehículos.
+
+15. Diagrama de Flujo DF-01-002 Seguro de vehículos.
+
+16. Diagrama de Flujo DF-01-003 Alta y baja de vehículos.
+
+DEFINICIONES:
+
+17. SICA: Sistema de control administrativo.
+
+18. SICAWeb: Sistema de control administrativo para captura en internet
+
+19. Póliza de Seguro: Documento oficial que una aseguradora entrega al
+      contratante, en ésta se encuentran todas las características del
+      servicio como: condiciones generales, particulares, deducible,
+      suma asegurada, prima total, entre otros datos importantes.
+
+20. Flotilla: Es el conjunto de vehículos que utiliza una empresa para
+      resolver sus necesidades de movilidad.
+
+21. Seguro: Es un contrato entre el propietario de un vehículo y una
+      aseguradora cuyo objetivo es cubrir económicamente los riesgos
+      asociados a la conducción y tenencia del vehículo.
+
+FIRMAS:
+
++------------------------+---------------------+-----------------------+
+|   Realizó              |   Revisó            |   Autorizó            |
++========================+=====================+=======================+
+|   Roberto Mier         |   Ana Noelle García |   Adolfo del Mazo     |
+|                        |                     |                       |
+|   Gerente de Sistemas  |   Gerente de        |   Director General    |
+|   y Procesos           |   Administración    |                       |
++------------------------+---------------------+-----------------------+
